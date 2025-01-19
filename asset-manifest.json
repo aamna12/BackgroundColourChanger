@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/aamna12/BackgroundColourChanger.git/static/css/main.0a3e3157.css",
-    "main.js": "/aamna12/BackgroundColourChanger.git/static/js/main.963175c1.js",
-    "index.html": "/aamna12/BackgroundColourChanger.git/index.html",
-    "main.0a3e3157.css.map": "/aamna12/BackgroundColourChanger.git/static/css/main.0a3e3157.css.map",
-    "main.963175c1.js.map": "/aamna12/BackgroundColourChanger.git/static/js/main.963175c1.js.map"
+    "main.css": "/BackgroundColourChanger/static/css/main.0a3e3157.css",
+    "main.js": "/BackgroundColourChanger/static/js/main.963175c1.js",
+    "index.html": "/BackgroundColourChanger/index.html",
+    "main.0a3e3157.css.map": "/BackgroundColourChanger/static/css/main.0a3e3157.css.map",
+    "main.963175c1.js.map": "/BackgroundColourChanger/static/js/main.963175c1.js.map"
   },
   "entrypoints": [
     "static/css/main.0a3e3157.css",
